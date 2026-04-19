@@ -1,1 +1,1 @@
-This is Changgang's personal home page. The source code is from Jon Barron's public academic website: https://jonbarron.info/. 
+Redirecting to Changgang's personal home page (https://changgang-zheng.github.io). The source code is from Jon Barron's public academic website: https://jonbarron.info/. 
